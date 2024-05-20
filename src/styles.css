@@ -51,6 +51,10 @@ ul {
   box-sizing: border-box;
 }
 
+li {
+  color: hsl(0, 0%, 78%);
+}
+
 body {
   font-family: sans-serif;
   margin: 20px;
