@@ -79,6 +79,7 @@ body {
 }
 
 .status {
+  color: hsl(0, 0%, 78%) ;
   margin-bottom: 10px;
 }
 .game {
